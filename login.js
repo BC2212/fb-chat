@@ -9,7 +9,7 @@ const rl = readline.createInterface({
     output: process.stdout
 })
 
-const obj = {email:"ngquangnhutquynh@gmail.com", password:"NyN1312"}
+const obj = {email:"baobinh78964@gmail.com", password:"NyN1312"}
 
 login(obj, (err, api)=>{
     if(err){
